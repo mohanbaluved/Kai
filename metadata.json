@@ -1,0 +1,8 @@
+{
+  "name": "For Kainat ✨",
+  "description": "A chaotic, adorable, and emotional digital shrine made by Mohan (Hani) for Kainat. A celebration of friendship, patience, and meow meows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
